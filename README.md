@@ -45,4 +45,4 @@ Answer: Users commute from less city like areas, to the business areas of NY. Ju
 ## Summary
 All findings lead to the fact that working men should be targeted by this subscription service. One caveat being that you cannot compare such a smaller, different city like Des Moines to NYC. It just doesn't translate so this data could be entirely wrong.
 
-
+Two suggested visualizations to make this actually work would be to compare heat maps of NYC to Des Moines, geographically speaking. Population is a big factor in the amount of users you will obtain in this business model. Another visualization would be, common commuting methods in Des Moines. If they have to travel long distances, are bikes even viable? Only one way to find out.
