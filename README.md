@@ -25,9 +25,9 @@ Answer: In depicting the spread of data across genders, it appears that men are 
 
 Again, how are these users really utilizing bicycles? Ideally we could define a common schedule for the standard 9-5 work day. Let's use one of the heat maps we created to define the time frames in which these bicycles were commonly used.
 
-Answer: This is a common theme. Commuting men use this. Feels like I'm beating a dead horse since it wouldn't take this many visualizations to capture the point here......
+Answer: This is a common theme. Commuting men use this. 
 
-!(https://github.com/demarcomf/NY-Citi-Bikeshare/blob/main/Trips%20by%20Gender%20(Weekday%20per%20Hour.PNG)
+![Standard Use by Gender](https://github.com/demarcomf/NY-Citi-Bikeshare/blob/main/Trips%20by%20Gender%20(Weekday%20per%20Hour.PNG)
 
 Another question in this. Are these users subscribers or more of a single time user?
 
