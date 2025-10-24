@@ -23,12 +23,6 @@ Answer: In depicting the spread of data across genders, it appears that men are 
 
 ![Checkout Times by Gender](https://github.com/demarcomf/NY-Citi-Bikeshare/blob/main/Checkout%20Times%20by%20Gender.PNG)
 
-Again, how are these users really utilizing bicycles? Ideally we could define a common schedule for the standard 9-5 work day. Let's use one of the heat maps we created to define the time frames in which these bicycles were commonly used.
-
-Answer: This is a common theme. Commuting men use this. 
-
-![Standard Use by Gender](https://github.com/demarcomf/NY-Citi-Bikeshare/blob/main/Trips%20by%20Gender%20/Weekday%20per%20Hour.PNG)
-
 Another question in this. Are these users subscribers or more of a single time user?
 
 Answer: A hefty portion of the users are subscribers, which would carry the theme of commuter life. Typical users will use this M-F to commute to and from work because it saves them the hassle of driving in NYC, avoiding parking, saving the environment, etc.
