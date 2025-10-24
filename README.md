@@ -27,7 +27,7 @@ Again, how are these users really utilizing bicycles? Ideally we could define a 
 
 Answer: This is a common theme. Commuting men use this. 
 
-![Standard Use by Gender](https://github.com/demarcomf/NY-Citi-Bikeshare/blob/main/Trips%20by%20Gender%20(Weekday%20per%20Hour.PNG)
+![Standard Use by Gender](https://github.com/demarcomf/NY-Citi-Bikeshare/blob/main/Trips%20by%20Gender%20/Weekday%20per%20Hour.PNG)
 
 Another question in this. Are these users subscribers or more of a single time user?
 
